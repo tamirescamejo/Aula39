@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margem_16">16dp</dimen>
+    <dimen name="altura_125">125dp</dimen>
+    <dimen name="largura_125">125dp</dimen>
+    <dimen name="margem_32">32dp</dimen>
+    <dimen name="margem_140">140dp</dimen>
+    <dimen name="margem_189">189dp</dimen>
+    <dimen name="fonte_12">12sp</dimen>
+    <dimen name="margem_24">24dp</dimen>
+    <dimen name="margem_76">76dp</dimen>
+    <dimen name="fonte_16">16sp</dimen>
+</resources>
